@@ -1,0 +1,228 @@
+{
+  "videos": [
+   {
+      "Oxy - Administrativo": [
+        {
+          "Patrimônio": [
+            {
+              "name": "1.1. Cadastro",
+              "urlVideo": "https://player.vimeo.com/video/927100003?h=1aeb8e48f7&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.2. Baixa",
+              "urlVideo": "https://player.vimeo.com/video/927148549?h=b9ef4ee0f1&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.3. Depreciação",
+              "urlVideo": "https://player.vimeo.com/video/927257310?h=dfbdfc7076&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.4. Geração de Arquivos SIM-AM",
+              "urlVideo": "https://player.vimeo.com/video/927274650?h=f016b627ba&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.5. Transferências",
+              "urlVideo": "https://player.vimeo.com/video/927528062?h=14ed10f959&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        },
+        {
+          "Licitação": [
+            {
+              "name": "2.1. Cadastro de Pareceres",
+              "urlVideo": "https://player.vimeo.com/video/932917427?h=75dc07f99a&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.2. Cadastro de Aditivos",
+              "urlVideo": "https://player.vimeo.com/video/933014027?h=7b61091aef&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Oxy - Arrecadação": [
+        {
+          "Tributos": [
+            {
+              "name": "1.1. Abertura e Fechamento de Mês e Exercício",
+              "urlVideo": "https://player.vimeo.com/video/930006486?h=0de25ef559&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.2. Integração Contábil",
+              "urlVideo": "https://player.vimeo.com/video/930006526?h=02cac47437&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.3. Inscrição no Livro de Dívida Ativa",
+              "urlVideo": "https://player.vimeo.com/video/930006565?h=b32f9b76cb&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.4. Baixa Automática e Simples Nacional",
+              "urlVideo": "https://player.vimeo.com/video/932917637?h=283e552a7a&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.5. Baixa Manual",
+              "urlVideo": "https://player.vimeo.com/video/936239341?h=636febe033&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.6. Gerar Boleto Especial",
+              "urlVideo": "https://player.vimeo.com/video/936239416?h=4226938d55&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.7. Virada de Exercício",
+              "urlVideo": "https://player.vimeo.com/video/937706573?h=50875b8a13&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.8. Geração de SIM-AM",
+              "urlVideo": "https://player.vimeo.com/video/937706777?h=a8d0fd4453&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        },
+        {
+          "ISS": [
+            {
+              "name": "2.1. Cadastro de Usuário",
+              "urlVideo": "https://player.vimeo.com/video/940959135?h=f85ff0c8f3&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.2. Credenciamento de Empresa",
+              "urlVideo": "https://player.vimeo.com/video/940959359?h=9c1287403c&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.3. Aprovação do Credenciamento",
+              "urlVideo": "https://player.vimeo.com/video/940959260?h=78afe492d2&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.4. Emissão de NFS-e",
+              "urlVideo": "https://player.vimeo.com/video/942758494?h=4df2610cbc&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.5. Cancelamento de NFS-e",
+              "urlVideo": "https://player.vimeo.com/video/943228458?h=077a323a72&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.6. Aprovação do Cancelamento de NFS-e",
+              "urlVideo": "https://player.vimeo.com/video/946180516?h=6cbf6ceda0&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.7. Lançamento de Serviço Tomado",
+              "urlVideo": "https://player.vimeo.com/video/946188530?h=31c0191c68&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.8. Lançamento de Serviço Prestado",
+              "urlVideo": "https://player.vimeo.com/video/946271116?h=9ff6cc592c&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.9. Entrega de DMS",
+              "urlVideo": "https://player.vimeo.com/video/946280400?h=82c6bbc87b&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.10. Cancelamento de DMS",
+              "urlVideo": "https://player.vimeo.com/video/946284521?h=27c0f72463&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.11. Aprovação do Cancelamento de DMS",
+              "urlVideo": "https://player.vimeo.com/video/946676342?h=a8a93f3a5d&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.12. Guia Eventual de Serviço Tomado",
+              "urlVideo": "https://player.vimeo.com/video/947497601?h=d962cbfb6b&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.13. Guia Eventual Serviço Prestado",
+              "urlVideo": "https://player.vimeo.com/video/948305209?h=3cbcad1ae8&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "2.14. Virada de Exercício",
+              "urlVideo": "https://player.vimeo.com/video/947096615?h=8a03706869&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Oxy - Contabilidade": [
+        {
+          "EFD Reinf": [
+            {
+              "name": "1.1. Apresentação",
+              "urlVideo": "https://player.vimeo.com/video/922125447?h=6b2fb50906&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.2. Natureza de Rendimento",
+              "urlVideo": "https://player.vimeo.com/video/922126449?h=232bbde9f0&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.3. Execução Orçamentária",
+              "urlVideo": "https://player.vimeo.com/video/925084456?h=d8f76e93b0&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.4. Situações Específicas",
+              "urlVideo": "https://player.vimeo.com/video/925100237?h=0c95bb5e00&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.5. Série R-4000",
+              "urlVideo": "https://player.vimeo.com/video/925102997?h=af3a1c1f72&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.6. Consulta das Informações na Contabilidade",
+              "urlVideo": "https://player.vimeo.com/video/925519397?h=5b67834716&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.7. Consulta e Exportação EFD-Reinf",
+              "urlVideo": "https://player.vimeo.com/video/925532832?h=26ea21c7c4&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+            {
+              "name": "1.8. Processos Administrativos e Judiciais",
+              "urlVideo": "https://player.vimeo.com/video/925812096?h=4ca3a8bb0f&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        },
+        {
+          "Folha de Pagamento e Contabilidade": [
+            {
+              "name": "2.1. Integração da Folha",
+              "urlVideo": "https://player.vimeo.com/video/930002047?h=ab6ce0ba5c&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        },
+        {
+          "Matriz de Saldos Contábeis": [
+            {
+              "name": "3.1. Rotina MSC",
+              "urlVideo": "https://player.vimeo.com/video/930002226?h=567f174ce5&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Oxy - Recursos Humanos": [
+        {
+          "Assuntos Gerais": [
+            {
+              "name": "1.1. Ação Coletiva",
+              "urlVideo": "https://player.vimeo.com/video/950015589?h=89871671ea&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+			{
+              "name": "1.2. Pensão Alimentícia",
+              "urlVideo": "https://player.vimeo.com/video/951098158?h=67d7a6d283&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+			{
+              "name": "1.3. Vale Transporte",
+              "urlVideo": "https://player.vimeo.com/video/951118604?h=cb13ea4f31&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+			{
+              "name": "1.4. Vale Alimentação",
+              "urlVideo": "https://player.vimeo.com/video/951197673?h=acb1ad2e44&badge=0&autopause=0&player_id=0&app_id=58479"
+            },
+			{
+              "name": "1.5. Cálculo Retroativo",
+              "urlVideo": "https://player.vimeo.com/video/951545204?h=8c27413481&badge=0&autopause=0&player_id=0&app_id=58479"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
